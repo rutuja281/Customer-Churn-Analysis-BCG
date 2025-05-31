@@ -45,7 +45,7 @@ The project mimics a real-life client engagement at "XYZ Analytics" and walks th
 ### 📢 Business Communication
 - Translated model results and data insights into a **concise executive summary**
 - Focused on interpretability, impact, and next steps for the business
-
+(bcg_certificate.jpeg)
 ---
 
 
